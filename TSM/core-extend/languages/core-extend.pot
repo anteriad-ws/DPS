@@ -1,0 +1,1744 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitz | Theme Core Extend\n"
+"POT-Creation-Date: 2017-05-12 18:20+0300\n"
+"PO-Revision-Date: 2015-12-22 11:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core-extend.php:64
+#, php-format
+msgctxt "%1$s and %2$s stand for <strong> tags."
+msgid ""
+"%1$s MNKY | Theme Core Extend %2$s requires Visual Composer plugin to be "
+"installed and activated on your site."
+msgstr ""
+
+#: include/ads_post_type.php:8
+msgctxt "Post Type General Name"
+msgid "Ads"
+msgstr ""
+
+#: include/ads_post_type.php:9
+msgctxt "Post Type Singular Name"
+msgid "Ad"
+msgstr ""
+
+#: include/ads_post_type.php:10 include/vc/map.php:1753
+msgid "Ads"
+msgstr ""
+
+#: include/ads_post_type.php:11 include/header_post_type.php:12
+msgid "Parent Item:"
+msgstr ""
+
+#: include/ads_post_type.php:12
+msgid "All Ads"
+msgstr ""
+
+#: include/ads_post_type.php:13 include/header_post_type.php:19
+msgid "View Item"
+msgstr ""
+
+#: include/ads_post_type.php:14
+msgid "Add New Item"
+msgstr ""
+
+#: include/ads_post_type.php:15 include/header_post_type.php:15
+msgid "Add New"
+msgstr ""
+
+#: include/ads_post_type.php:16 include/header_post_type.php:17
+msgid "Edit Item"
+msgstr ""
+
+#: include/ads_post_type.php:17 include/header_post_type.php:18
+msgid "Update Item"
+msgstr ""
+
+#: include/ads_post_type.php:18 include/header_post_type.php:20
+msgid "Search Item"
+msgstr ""
+
+#: include/ads_post_type.php:19 include/header_post_type.php:21
+msgid "Not found"
+msgstr ""
+
+#: include/ads_post_type.php:20 include/header_post_type.php:22
+msgid "Not found in Trash"
+msgstr ""
+
+#: include/ads_post_type.php:23
+msgid "ad-options"
+msgstr ""
+
+#: include/ads_post_type.php:24
+msgid "Ad Post Type"
+msgstr ""
+
+#: include/ads_post_type.php:40
+msgctxt "Ads post type slug in permalink"
+msgid "site-commerce"
+msgstr ""
+
+#: include/ads_post_type.php:55
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: include/ads_post_type.php:56
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: include/ads_post_type.php:57 include/ads_post_type.php:88
+#: include/vc/map.php:1386
+msgid "Categories"
+msgstr ""
+
+#: include/ads_post_type.php:58
+msgid "Search Categories"
+msgstr ""
+
+#: include/ads_post_type.php:59
+msgid "All Categories"
+msgstr ""
+
+#: include/ads_post_type.php:60
+msgid "Parent Category"
+msgstr ""
+
+#: include/ads_post_type.php:61
+msgid "Parent Category:"
+msgstr ""
+
+#: include/ads_post_type.php:62
+msgid "Edit Category"
+msgstr ""
+
+#: include/ads_post_type.php:63
+msgid "Update Category"
+msgstr ""
+
+#: include/ads_post_type.php:64
+msgid "Add New Category"
+msgstr ""
+
+#: include/ads_post_type.php:65
+msgid "New Category Name"
+msgstr ""
+
+#: include/ads_post_type.php:86 include/vc/map.php:236 include/vc/map.php:828
+#: include/vc/map.php:984
+msgid "Title"
+msgstr ""
+
+#: include/ads_post_type.php:87
+msgid "Shortcode"
+msgstr ""
+
+#: include/ads_post_type.php:89 include/vc/map.php:941
+msgid "Date"
+msgstr ""
+
+#: include/header_post_type.php:8
+msgctxt "Post Type General Name"
+msgid "Custom Headers"
+msgstr ""
+
+#: include/header_post_type.php:9
+msgctxt "Post Type Singular Name"
+msgid "Custom Header"
+msgstr ""
+
+#: include/header_post_type.php:10
+msgid "Custom Headers"
+msgstr ""
+
+#: include/header_post_type.php:11 include/header_post_type.php:25
+msgid "Custom Header"
+msgstr ""
+
+#: include/header_post_type.php:13
+msgid "All Headers"
+msgstr ""
+
+#: include/header_post_type.php:14
+msgid "Add New Header"
+msgstr ""
+
+#: include/header_post_type.php:16
+msgid "New Item"
+msgstr ""
+
+#: include/header_post_type.php:26
+msgid "Create custom header styles."
+msgstr ""
+
+#: include/importer/importer.php:159
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: include/importer/importer.php:181
+msgid "Site does not support widget"
+msgstr ""
+
+#: include/importer/importer.php:204
+msgid "Widget already exists"
+msgstr ""
+
+#: include/importer/importer.php:253
+msgid "Imported"
+msgstr ""
+
+#: include/importer/importer.php:256
+msgid "Imported to Inactive"
+msgstr ""
+
+#: include/importer/importer.php:263
+msgid "No Title"
+msgstr ""
+
+#: include/importer/importer.php:357
+msgid "Welcome to Bitz!"
+msgstr ""
+
+#: include/importer/importer.php:358
+msgid ""
+"Replicate live preview website by importing demo data. You can change and "
+"edit everything later."
+msgstr ""
+
+#: include/importer/importer.php:359
+msgid "Import demo data"
+msgstr ""
+
+#: include/importer/importer.php:361
+msgid ""
+"NOTICE: Images and graphics used in live demo that are licensed for preview "
+"purposes only are replaced with placeholder images."
+msgstr ""
+
+#: include/importer/importer.php:366 include/importer/importer.php:389
+msgid "Documentation"
+msgstr ""
+
+#: include/importer/importer.php:367 include/importer/importer.php:390
+msgid "Read online documentation to learn everything about the theme."
+msgstr ""
+
+#: include/importer/importer.php:368 include/importer/importer.php:391
+msgid "Read documentation"
+msgstr ""
+
+#: include/importer/importer.php:371 include/importer/importer.php:394
+msgid "Theme options"
+msgstr ""
+
+#: include/importer/importer.php:372 include/importer/importer.php:395
+msgid "Go to theme options panel to adjust theme settings."
+msgstr ""
+
+#: include/importer/importer.php:373 include/importer/importer.php:396
+msgid "Customize theme"
+msgstr ""
+
+#: include/importer/importer.php:376
+msgid "Help desk"
+msgstr ""
+
+#: include/importer/importer.php:377
+msgid "Visit our support forums to ask questions and get the answers."
+msgstr ""
+
+#: include/importer/importer.php:378
+msgid "Receive support"
+msgstr ""
+
+#: include/importer/importer.php:385
+msgid "Data Imported Successfully!"
+msgstr ""
+
+#: include/importer/importer.php:399
+msgid "See result"
+msgstr ""
+
+#: include/importer/importer.php:400
+msgid "Visit your home page to see imported demo content."
+msgstr ""
+
+#: include/importer/importer.php:401
+msgid "Visit homepage"
+msgstr ""
+
+#: include/importer/parsers.php:42 include/importer/parsers.php:72
+#: include/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: include/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: include/importer/parsers.php:84 include/importer/parsers.php:89
+#: include/importer/parsers.php:306 include/importer/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:132
+#: include/importer/wordpress-importer.php:141
+#: include/importer/wordpress-importer.php:192
+#: include/importer/wordpress-importer.php:196
+#: include/importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:516
+#: include/importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:876
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:939
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:952
+msgid "Invalid file type"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:996
+msgid "Remote server did not respond"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1002
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1009
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1014
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1020
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1119
+msgid "Import WordPress"
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1126
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1141
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: include/importer/wordpress-importer.php:1142
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: include/vc/map.php:17
+msgid "CSS Animation Delay"
+msgstr ""
+
+#: include/vc/map.php:46
+msgid "Progress Bar"
+msgstr ""
+
+#: include/vc/map.php:49
+msgid "Content"
+msgstr ""
+
+#: include/vc/map.php:50
+msgid "Animated progress bar"
+msgstr ""
+
+#: include/vc/map.php:54
+msgid "Graphic values"
+msgstr ""
+
+#: include/vc/map.php:56
+msgid ""
+"Input graph values here. Divide values with linebreaks (Enter). Example: 90|"
+"Development"
+msgstr ""
+
+#: include/vc/map.php:61
+msgid "Units"
+msgstr ""
+
+#: include/vc/map.php:63
+msgid ""
+"Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and "
+"unit will be appended to the graph title."
+msgstr ""
+
+#: include/vc/map.php:67
+msgid "Bar color"
+msgstr ""
+
+#: include/vc/map.php:69 include/vc/map.php:112 include/vc/map.php:428
+#: include/vc/map.php:703 include/vc/map.php:849
+msgid "Leave empty to use theme accent color."
+msgstr ""
+
+#: include/vc/map.php:73
+msgid "Options"
+msgstr ""
+
+#: include/vc/map.php:75
+msgid "Add Stripes?"
+msgstr ""
+
+#: include/vc/map.php:75
+msgid "Add animation? Will be visible with striped bars."
+msgstr ""
+
+#: include/vc/map.php:79 include/vc/map.php:219 include/vc/map.php:284
+#: include/vc/map.php:440 include/vc/map.php:492 include/vc/map.php:532
+#: include/vc/map.php:594 include/vc/map.php:721 include/vc/map.php:866
+#: include/vc/map.php:922 include/vc/map.php:963 include/vc/map.php:1031
+#: include/vc/map.php:1477 include/vc/map.php:1596 include/vc/map.php:1720
+#: include/vc/map.php:1792
+msgid "Extra class name"
+msgstr ""
+
+#: include/vc/map.php:81 include/vc/map.php:221 include/vc/map.php:286
+#: include/vc/map.php:442 include/vc/map.php:494 include/vc/map.php:534
+#: include/vc/map.php:596 include/vc/map.php:723 include/vc/map.php:868
+#: include/vc/map.php:924 include/vc/map.php:965 include/vc/map.php:1033
+#: include/vc/map.php:1479 include/vc/map.php:1598
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: include/vc/map.php:89
+msgid "Styled Button"
+msgstr ""
+
+#: include/vc/map.php:92 include/vc/map.php:231 include/vc/map.php:297
+#: include/vc/map.php:455 include/vc/map.php:508 include/vc/map.php:562
+#: include/vc/map.php:609 include/vc/map.php:735 include/vc/map.php:881
+#: include/vc/map.php:936 include/vc/map.php:979 include/vc/map.php:1157
+#: include/vc/map.php:1494 include/vc/map.php:1610 include/vc/map.php:1681
+#: include/vc/map.php:1695 include/vc/map.php:1756
+msgid "Premium"
+msgstr ""
+
+#: include/vc/map.php:93
+msgid "Eye catching button"
+msgstr ""
+
+#: include/vc/map.php:97 include/vc/map.php:243 include/vc/map.php:433
+#: include/vc/map.php:707 include/vc/map.php:859
+msgid "URL (Link)"
+msgstr ""
+
+#: include/vc/map.php:102
+msgid "Button text"
+msgstr ""
+
+#: include/vc/map.php:105 include/vc/shortcodes/mnky_button.php:23
+msgid "Text on the button"
+msgstr ""
+
+#: include/vc/map.php:109
+msgid "Button color"
+msgstr ""
+
+#: include/vc/map.php:116 include/vc/map.php:1053
+msgid "Text color"
+msgstr ""
+
+#: include/vc/map.php:123
+msgid "Background hover color"
+msgstr ""
+
+#: include/vc/map.php:129 include/vc/map.php:304 include/vc/map.php:613
+#: include/vc/map.php:740
+msgid "Icon library"
+msgstr ""
+
+#: include/vc/map.php:131
+msgid "No icon"
+msgstr ""
+
+#: include/vc/map.php:132 include/vc/map.php:306 include/vc/map.php:615
+#: include/vc/map.php:742
+msgid "Font Awesome"
+msgstr ""
+
+#: include/vc/map.php:133 include/vc/map.php:307 include/vc/map.php:616
+#: include/vc/map.php:743
+msgid "Open Iconic"
+msgstr ""
+
+#: include/vc/map.php:134 include/vc/map.php:308 include/vc/map.php:617
+#: include/vc/map.php:744
+msgid "Typicons"
+msgstr ""
+
+#: include/vc/map.php:135 include/vc/map.php:309 include/vc/map.php:618
+#: include/vc/map.php:745
+msgid "Entypo"
+msgstr ""
+
+#: include/vc/map.php:136 include/vc/map.php:310 include/vc/map.php:619
+#: include/vc/map.php:746
+msgid "Linecons"
+msgstr ""
+
+#: include/vc/map.php:139 include/vc/map.php:314 include/vc/map.php:623
+#: include/vc/map.php:750
+msgid "Select icon library."
+msgstr ""
+
+#: include/vc/map.php:143 include/vc/map.php:158 include/vc/map.php:173
+#: include/vc/map.php:188 include/vc/map.php:202 include/vc/map.php:318
+#: include/vc/map.php:333 include/vc/map.php:348 include/vc/map.php:363
+#: include/vc/map.php:377 include/vc/map.php:627 include/vc/map.php:642
+#: include/vc/map.php:657 include/vc/map.php:672 include/vc/map.php:686
+#: include/vc/map.php:754 include/vc/map.php:769 include/vc/map.php:784
+#: include/vc/map.php:799 include/vc/map.php:813
+msgid "Icon"
+msgstr ""
+
+#: include/vc/map.php:154 include/vc/map.php:169 include/vc/map.php:184
+#: include/vc/map.php:213 include/vc/map.php:329 include/vc/map.php:344
+#: include/vc/map.php:359 include/vc/map.php:388 include/vc/map.php:638
+#: include/vc/map.php:653 include/vc/map.php:668 include/vc/map.php:697
+#: include/vc/map.php:765 include/vc/map.php:780 include/vc/map.php:795
+#: include/vc/map.php:824
+msgid "Select icon from library."
+msgstr ""
+
+#: include/vc/map.php:228
+msgid "Styled Heading"
+msgstr ""
+
+#: include/vc/map.php:232
+msgid "Eye catching headings"
+msgstr ""
+
+#: include/vc/map.php:248
+msgid "Heading color"
+msgstr ""
+
+#: include/vc/map.php:255
+msgid "Bottom line color"
+msgstr ""
+
+#: include/vc/map.php:262
+msgid "Bottom line first part color"
+msgstr ""
+
+#: include/vc/map.php:269
+msgid "Add categories link under title"
+msgstr ""
+
+#: include/vc/map.php:275
+msgid "Category link color"
+msgstr ""
+
+#: include/vc/map.php:294
+msgid "Icons"
+msgstr ""
+
+#: include/vc/map.php:298
+msgid "Scalable vector icons"
+msgstr ""
+
+#: include/vc/map.php:392
+msgid "Icon size"
+msgstr ""
+
+#: include/vc/map.php:399 include/vc/map.php:847
+msgid "Icon color"
+msgstr ""
+
+#: include/vc/map.php:406
+msgid "Padding left"
+msgstr ""
+
+#: include/vc/map.php:409
+msgid "The padding-left property sets the left padding (space) of an element."
+msgstr ""
+
+#: include/vc/map.php:413
+msgid "Padding right"
+msgstr ""
+
+#: include/vc/map.php:416
+msgid ""
+"The padding-right property sets the right padding (space) of an element."
+msgstr ""
+
+#: include/vc/map.php:420 include/vc/map.php:1120
+msgid "Hover effect"
+msgstr ""
+
+#: include/vc/map.php:422
+msgid "None"
+msgstr ""
+
+#: include/vc/map.php:422
+msgid "Fade out"
+msgstr ""
+
+#: include/vc/map.php:422
+msgid "Change color"
+msgstr ""
+
+#: include/vc/map.php:422
+msgid "Bounce"
+msgstr ""
+
+#: include/vc/map.php:422
+msgid "Shrink"
+msgstr ""
+
+#: include/vc/map.php:426
+msgid "Hover color"
+msgstr ""
+
+#: include/vc/map.php:451
+msgid "Team"
+msgstr ""
+
+#: include/vc/map.php:456
+msgid "Staff members"
+msgstr ""
+
+#: include/vc/map.php:460
+msgid "Member image"
+msgstr ""
+
+#: include/vc/map.php:463
+msgid "Recommended min. width: 540px"
+msgstr ""
+
+#: include/vc/map.php:467
+msgid "Name"
+msgstr ""
+
+#: include/vc/map.php:475
+msgid "Position"
+msgstr ""
+
+#: include/vc/map.php:479
+msgid "e.g. Senior Designer"
+msgstr ""
+
+#: include/vc/map.php:483
+msgid "Aditional info (optional)"
+msgstr ""
+
+#: include/vc/map.php:502
+msgid "Testimonials"
+msgstr ""
+
+#: include/vc/map.php:509
+msgid "Quote slider"
+msgstr ""
+
+#: include/vc/map.php:513
+msgid "Animation"
+msgstr ""
+
+#: include/vc/map.php:515
+msgid "Fade"
+msgstr ""
+
+#: include/vc/map.php:515
+msgid "Slide"
+msgstr ""
+
+#: include/vc/map.php:519
+msgid "Slide show speed"
+msgstr ""
+
+#: include/vc/map.php:522
+msgid "Set the speed of the slideshow cycling, in seconds"
+msgstr ""
+
+#: include/vc/map.php:526
+msgid "Hide paging control?"
+msgstr ""
+
+#: include/vc/map.php:528 include/vc/map.php:1090 include/vc/map.php:1131
+msgid "Yes, please"
+msgstr ""
+
+#: include/vc/map.php:543
+msgid "Add Testimonials"
+msgstr ""
+
+#: include/vc/map.php:543
+msgid "Add testimonial"
+msgstr ""
+
+#: include/vc/map.php:557
+msgid "Testimonial"
+msgstr ""
+
+#: include/vc/map.php:566
+msgid "Author image"
+msgstr ""
+
+#: include/vc/map.php:571
+msgid "Author name"
+msgstr ""
+
+#: include/vc/map.php:579
+msgid "Author info"
+msgstr ""
+
+#: include/vc/map.php:582
+msgid "e.g. \"Senior Designer\" or  \"Happy Customer\""
+msgstr ""
+
+#: include/vc/map.php:587
+msgid "Testimonial/Quote text"
+msgstr ""
+
+#: include/vc/map.php:590
+msgid "I am tetimonial text."
+msgstr ""
+
+#: include/vc/map.php:604
+msgid "List Item"
+msgstr ""
+
+#: include/vc/map.php:608
+msgid "List with custom icon"
+msgstr ""
+
+#: include/vc/map.php:701
+msgid "List icon color"
+msgstr ""
+
+#: include/vc/map.php:712
+msgid "List item text"
+msgstr ""
+
+#: include/vc/map.php:714
+msgid "I am a list item"
+msgstr ""
+
+#: include/vc/map.php:732
+msgid "Service"
+msgstr ""
+
+#: include/vc/map.php:736
+msgid "Service info with custom icon"
+msgstr ""
+
+#: include/vc/map.php:831
+msgid "Your service title"
+msgstr ""
+
+#: include/vc/map.php:835
+msgid "Service description"
+msgstr ""
+
+#: include/vc/map.php:837
+msgid "I am service box text. Click edit button to change this text."
+msgstr ""
+
+#: include/vc/map.php:841
+msgid "Layout style"
+msgstr ""
+
+#: include/vc/map.php:843
+msgid "Left"
+msgstr ""
+
+#: include/vc/map.php:843
+msgid "Right"
+msgstr ""
+
+#: include/vc/map.php:843
+msgid "Center"
+msgstr ""
+
+#: include/vc/map.php:853
+msgid "Title color"
+msgstr ""
+
+#: include/vc/map.php:855
+msgid "Leave empty to use default heading color"
+msgstr ""
+
+#: include/vc/map.php:878
+msgid "Counter"
+msgstr ""
+
+#: include/vc/map.php:882
+msgid "Animated numerical data"
+msgstr ""
+
+#: include/vc/map.php:886
+msgid "Value you want to begin at"
+msgstr ""
+
+#: include/vc/map.php:893
+msgid "Value you want to arrive at"
+msgstr ""
+
+#: include/vc/map.php:901
+msgid "Duration in milliseconds"
+msgstr ""
+
+#: include/vc/map.php:908
+msgid "Interval"
+msgstr ""
+
+#: include/vc/map.php:911
+msgid "How often the element should be updated"
+msgstr ""
+
+#: include/vc/map.php:915
+msgid "Decimals"
+msgstr ""
+
+#: include/vc/map.php:918
+msgid "The number of decimal places to show"
+msgstr ""
+
+#: include/vc/map.php:933
+msgid "Countdown"
+msgstr ""
+
+#: include/vc/map.php:937
+msgid "Count down to specific date"
+msgstr ""
+
+#: include/vc/map.php:945
+msgid ""
+"Enter date to counts down seconds, minutes, hours and days. e.g YYYY/MM/DD"
+msgstr ""
+
+#: include/vc/map.php:949
+msgid "Digit font size"
+msgstr ""
+
+#: include/vc/map.php:956
+msgid "Divider color"
+msgstr ""
+
+#: include/vc/map.php:974
+msgid "Pricing"
+msgstr ""
+
+#: include/vc/map.php:980
+msgid "Styled pricing boxes"
+msgstr ""
+
+#: include/vc/map.php:987
+msgid "Give your plan a title."
+msgstr ""
+
+#: include/vc/map.php:988
+msgid "Starter Pack"
+msgstr ""
+
+#: include/vc/map.php:992
+msgid "Currency"
+msgstr ""
+
+#: include/vc/map.php:995
+msgid "Enter currency symbol or text, e.g., $ or USD."
+msgstr ""
+
+#: include/vc/map.php:996
+msgid "$"
+msgstr ""
+
+#: include/vc/map.php:1000
+msgid "Price"
+msgstr ""
+
+#: include/vc/map.php:1003
+msgid "Set the price for this plan."
+msgstr ""
+
+#: include/vc/map.php:1004
+msgid "10"
+msgstr ""
+
+#: include/vc/map.php:1008
+msgid "Time"
+msgstr ""
+
+#: include/vc/map.php:1011
+msgid "Choose time span for you plan, e.g., /mo, month or /yr."
+msgstr ""
+
+#: include/vc/map.php:1012
+msgid "/mo"
+msgstr ""
+
+#: include/vc/map.php:1016
+msgid "Meta"
+msgstr ""
+
+#: include/vc/map.php:1019
+msgid "A short desciption or slogan for the plan."
+msgstr ""
+
+#: include/vc/map.php:1020
+msgid "Great for small business"
+msgstr ""
+
+#: include/vc/map.php:1024
+msgid "Add URL to the whole box (optional)"
+msgstr ""
+
+#: include/vc/map.php:1037
+msgid "Select style"
+msgstr ""
+
+#: include/vc/map.php:1040
+msgid "Choose style for this pricing box."
+msgstr ""
+
+#: include/vc/map.php:1041 include/vc/map.php:1049 include/vc/map.php:1057
+#: include/vc/map.php:1064 include/vc/map.php:1073 include/vc/map.php:1082
+#: include/vc/map.php:1255
+msgid "Design"
+msgstr ""
+
+#: include/vc/map.php:1045
+msgid "Background color"
+msgstr ""
+
+#: include/vc/map.php:1048
+msgid "Set background color for pricing box body."
+msgstr ""
+
+#: include/vc/map.php:1056
+msgid "Set text color for pricing box content."
+msgstr ""
+
+#: include/vc/map.php:1061
+msgid "Header background color"
+msgstr ""
+
+#: include/vc/map.php:1065
+msgid "Set background color for box header."
+msgstr ""
+
+#: include/vc/map.php:1070
+msgid "Header text color"
+msgstr ""
+
+#: include/vc/map.php:1074
+msgid "Set color for text inside box header area."
+msgstr ""
+
+#: include/vc/map.php:1079
+msgid "Border color (optional)"
+msgstr ""
+
+#: include/vc/map.php:1081
+msgid "Add border to whole box. Leave empty for no border."
+msgstr ""
+
+#: include/vc/map.php:1086
+msgid "Add badge?"
+msgstr ""
+
+#: include/vc/map.php:1088 include/vc/map.php:1096 include/vc/map.php:1104
+#: include/vc/map.php:1114
+msgid "Badge"
+msgstr ""
+
+#: include/vc/map.php:1094
+msgid "Badge background color"
+msgstr ""
+
+#: include/vc/map.php:1097
+msgid "Set a background color for the badge."
+msgstr ""
+
+#: include/vc/map.php:1102
+msgid "Badge text color"
+msgstr ""
+
+#: include/vc/map.php:1106
+msgid "Set a text color for the badge."
+msgstr ""
+
+#: include/vc/map.php:1111
+msgid "Badge text"
+msgstr ""
+
+#: include/vc/map.php:1113
+msgid "Best Offer"
+msgstr ""
+
+#: include/vc/map.php:1115
+msgid "What do you want your badge to say? , E.g., 50% Off or Save 30%."
+msgstr ""
+
+#: include/vc/map.php:1123
+msgid "Enable and choose a hover effect."
+msgstr ""
+
+#: include/vc/map.php:1124 include/vc/map.php:1130
+msgid "Effect"
+msgstr ""
+
+#: include/vc/map.php:1128
+msgid "Always active? (by default only on hover state)"
+msgstr ""
+
+#: include/vc/map.php:1132
+msgid "Use this option, if you want to accentuate one of the boxes."
+msgstr ""
+
+#: include/vc/map.php:1147 include/vc/map.php:1163 include/vc/map.php:1177
+#: include/vc/map.php:1185 include/vc/map.php:1192 include/vc/map.php:1199
+#: include/vc/map.php:1206 include/vc/map.php:1214 include/vc/map.php:1222
+#: include/vc/map.php:1231 include/vc/map.php:1240 include/vc/map.php:1248
+#: include/vc/map.php:1263 include/vc/map.php:1271 include/vc/map.php:1279
+#: include/vc/map.php:1287 include/vc/map.php:1295 include/vc/map.php:1303
+#: include/vc/map.php:1311 include/vc/map.php:1480
+msgid "Layout"
+msgstr ""
+
+#: include/vc/map.php:1152
+msgid "Article Block"
+msgstr ""
+
+#: include/vc/map.php:1158
+msgid "Display selected posts"
+msgstr ""
+
+#: include/vc/map.php:1183
+msgid "Choose background color for breaking news"
+msgstr ""
+
+#: include/vc/map.php:1190
+msgid "Choose color for breaking news placeholder"
+msgstr ""
+
+#: include/vc/map.php:1197
+msgid "Choose color for breaking news link"
+msgstr ""
+
+#: include/vc/map.php:1204
+msgid "Optional placeholder before news title, e.g., \"Breaking News:\""
+msgstr ""
+
+#: include/vc/map.php:1211
+msgid "Remove paddings"
+msgstr ""
+
+#: include/vc/map.php:1213 include/vc/map.php:1221 include/vc/map.php:1230
+#: include/vc/map.php:1239 include/vc/map.php:1247 include/vc/map.php:1262
+#: include/vc/map.php:1270 include/vc/map.php:1278 include/vc/map.php:1286
+#: include/vc/map.php:1294 include/vc/map.php:1302 include/vc/map.php:1310
+#: include/vc/map.php:1347 include/vc/map.php:1515 include/vc/map.php:1523
+#: include/vc/map.php:1545 include/vc/map.php:1551 include/vc/map.php:1710
+#: include/vc/map.php:1716
+msgid "Yes, please!"
+msgstr ""
+
+#: include/vc/map.php:1219
+msgid "Do not duplicate posts"
+msgstr ""
+
+#: include/vc/map.php:1223 include/vc/map.php:1516
+msgid ""
+"Do not include posts that are already shown before in other post section."
+msgstr ""
+
+#: include/vc/map.php:1228
+msgid "Allow to duplicate posts from this section"
+msgstr ""
+
+#: include/vc/map.php:1232
+msgid ""
+"Other post sections below will include posts from THIS section even if \"Do "
+"not duplicate posts\" will be active."
+msgstr ""
+
+#: include/vc/map.php:1237
+msgid "Display posts in one column"
+msgstr ""
+
+#: include/vc/map.php:1245
+msgid "Hide review rating"
+msgstr ""
+
+#: include/vc/map.php:1253
+msgid "Rating stars color"
+msgstr ""
+
+#: include/vc/map.php:1256
+msgid "Choose custom color for rating stars."
+msgstr ""
+
+#: include/vc/map.php:1260 include/vc/map.php:1543
+msgid "Hide post category"
+msgstr ""
+
+#: include/vc/map.php:1268
+msgid "Hide post author"
+msgstr ""
+
+#: include/vc/map.php:1276
+msgid "Hide post date"
+msgstr ""
+
+#: include/vc/map.php:1284
+msgid "Hide post comment count"
+msgstr ""
+
+#: include/vc/map.php:1292
+msgid "Hide post views count"
+msgstr ""
+
+#: include/vc/map.php:1300 include/vc/map.php:1549
+msgid "Hide post excerpt"
+msgstr ""
+
+#: include/vc/map.php:1308
+msgid "Show post excerpt"
+msgstr ""
+
+#: include/vc/map.php:1316
+msgid "Posts per page"
+msgstr ""
+
+#: include/vc/map.php:1319
+msgid "Number of post to show per page (-1 to show all posts)"
+msgstr ""
+
+#: include/vc/map.php:1320 include/vc/map.php:1327 include/vc/map.php:1334
+#: include/vc/map.php:1341 include/vc/map.php:1348 include/vc/map.php:1356
+#: include/vc/map.php:1532 include/vc/map.php:1539
+msgid "Parameters"
+msgstr ""
+
+#: include/vc/map.php:1324
+msgid "Limit posts by time"
+msgstr ""
+
+#: include/vc/map.php:1331 include/vc/map.php:1529 include/vc/map.php:1643
+msgid "Order"
+msgstr ""
+
+#: include/vc/map.php:1338 include/vc/map.php:1536 include/vc/map.php:1649
+msgid "Order by"
+msgstr ""
+
+#: include/vc/map.php:1345
+msgid "Show pagination"
+msgstr ""
+
+#: include/vc/map.php:1352 include/vc/map.php:1655
+msgid "Offset"
+msgstr ""
+
+#: include/vc/map.php:1355
+msgid "Number of post to displace or pass over"
+msgstr ""
+
+#: include/vc/map.php:1360
+msgid "Filter results"
+msgstr ""
+
+#: include/vc/map.php:1362 include/vc/map.php:1370 include/vc/map.php:1381
+#: include/vc/map.php:1389 include/vc/map.php:1397 include/vc/map.php:1404
+#: include/vc/map.php:1414 include/vc/map.php:1421 include/vc/map.php:1430
+#: include/vc/map.php:1438
+msgid "Filter"
+msgstr ""
+
+#: include/vc/map.php:1368
+msgid "Operator"
+msgstr ""
+
+#: include/vc/map.php:1373
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <strong> tags."
+msgid ""
+"IN = Posts must be %2$s at least in ONE %3$s of selected categories or tags "
+"%1$s NOT IN = Excludes posts that are in selected categories or tags %1$s "
+"AND = Post must be %2$s in ALL %3$s selected categories or tags"
+msgstr ""
+
+#: include/vc/map.php:1377
+msgid "Select author"
+msgstr ""
+
+#: include/vc/map.php:1394
+msgid "Tags"
+msgstr ""
+
+#: include/vc/map.php:1402
+msgid "Refine results"
+msgstr ""
+
+#: include/vc/map.php:1410
+msgid "Taxonomy relation"
+msgstr ""
+
+#: include/vc/map.php:1413
+msgid "The logical relationship between each taxonomy."
+msgstr ""
+
+#: include/vc/map.php:1419
+msgid "Operator 2"
+msgstr ""
+
+#: include/vc/map.php:1427
+msgid "Categories 2"
+msgstr ""
+
+#: include/vc/map.php:1435
+msgid "Tags 2"
+msgstr ""
+
+#: include/vc/map.php:1444
+msgid ""
+"Image will always be stretched to fit container, but you can use these "
+"options to control aspect ratio and image size."
+msgstr ""
+
+#: include/vc/map.php:1445 include/vc/map.php:1453 include/vc/map.php:1462
+#: include/vc/map.php:1470
+msgid "Image"
+msgstr ""
+
+#: include/vc/map.php:1450 include/vc/map.php:1662
+msgid "Image width"
+msgstr ""
+
+#: include/vc/map.php:1455 include/vc/map.php:1464
+msgid "Specified size is converted to pixels, use plain numbers, e.g., \"350\""
+msgstr ""
+
+#: include/vc/map.php:1459 include/vc/map.php:1668
+msgid "Image height"
+msgstr ""
+
+#: include/vc/map.php:1469
+msgid "Image dimensions are fixed or images are not displayed for this style."
+msgstr ""
+
+#: include/vc/map.php:1490
+msgid "Post Grid"
+msgstr ""
+
+#: include/vc/map.php:1495
+msgid "Display latest posts in grid with background image"
+msgstr ""
+
+#: include/vc/map.php:1500
+msgid "Grid layout"
+msgstr ""
+
+#: include/vc/map.php:1507
+msgid "Grid height"
+msgstr ""
+
+#: include/vc/map.php:1513
+msgid "Do not dublicate posts"
+msgstr ""
+
+#: include/vc/map.php:1521
+msgid "Allow to dublicate posts from this section"
+msgstr ""
+
+#: include/vc/map.php:1524
+msgid ""
+"Other post sections below will include posts from THIS section even if \"Do "
+"not dublicate posts\" will be active."
+msgstr ""
+
+#: include/vc/map.php:1531
+msgid "Descending"
+msgstr ""
+
+#: include/vc/map.php:1531
+msgid "Ascending"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "By date"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "By post views"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "By last modified date"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "By number of comments"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "Random order"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "By title"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "By ID"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "By author"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "By post slug"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "By post/page parent id"
+msgstr ""
+
+#: include/vc/map.php:1538
+msgid "No order"
+msgstr ""
+
+#: include/vc/map.php:1555
+msgid "Category 1 (optional)"
+msgstr ""
+
+#: include/vc/map.php:1557
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <strong> tags."
+msgid ""
+"Choose category to display in the first box. Use category %2$s slug name "
+"%3$s. %1$s Leave empty to display latest posts from all categories."
+msgstr ""
+
+#: include/vc/map.php:1561
+msgid "Category 2 (optional)"
+msgstr ""
+
+#: include/vc/map.php:1563
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <strong> tags."
+msgid ""
+"Choose category to display in the second box. Use category %2$s slug name "
+"%3$s. %1$s Leave empty to display latest posts from all categories."
+msgstr ""
+
+#: include/vc/map.php:1567
+msgid "Category 3 (optional)"
+msgstr ""
+
+#: include/vc/map.php:1569
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <strong> tags."
+msgid ""
+"Choose category to display in the third box. Use category %2$s slug name "
+"%3$s. %1$s Leave empty to display latest posts from all categories."
+msgstr ""
+
+#: include/vc/map.php:1573
+msgid "Category 4 (optional)"
+msgstr ""
+
+#: include/vc/map.php:1576
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <strong> tags."
+msgid ""
+"Choose category to display in the fourth box. Use category %2$s slug name "
+"%3$s. %1$s Leave empty to display latest posts from all categories."
+msgstr ""
+
+#: include/vc/map.php:1580
+msgid "Category 5 (optional)"
+msgstr ""
+
+#: include/vc/map.php:1583
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <strong> tags."
+msgid ""
+"Choose category to display in the fifth box. Use category %2$s slug name "
+"%3$s. %1$s Leave empty to display latest posts from all categories."
+msgstr ""
+
+#: include/vc/map.php:1587
+msgid "Category 6 (optional)"
+msgstr ""
+
+#: include/vc/map.php:1590
+#, php-format
+msgctxt "%1$s stands for line break, %2$s and %3$s stand for <strong> tags."
+msgid ""
+"Choose category to display in the sixth box. Use category %2$s slug name "
+"%3$s. %1$s Leave empty to display latest posts from all categories."
+msgstr ""
+
+#: include/vc/map.php:1607
+msgid "Related posts"
+msgstr ""
+
+#: include/vc/map.php:1611
+msgid "Posts with similar categories or tags"
+msgstr ""
+
+#: include/vc/map.php:1616
+msgid "Display only category related posts (no tags)"
+msgstr ""
+
+#: include/vc/map.php:1618 include/vc/map.php:1625 include/vc/map.php:1785
+msgid "On"
+msgstr ""
+
+#: include/vc/map.php:1623
+msgid "Display only tag related posts (no category)"
+msgstr ""
+
+#: include/vc/map.php:1630
+msgid "Display related posts for specific post ID (optional)"
+msgstr ""
+
+#: include/vc/map.php:1636
+msgid "How many posts to display"
+msgstr ""
+
+#: include/vc/map.php:1658
+msgid "Number of post to displace or pass over."
+msgstr ""
+
+#: include/vc/map.php:1664 include/vc/map.php:1670
+msgid ""
+"Specified size is converted to pixels, use plain numbers, e.g., \"350\"."
+msgstr ""
+
+#: include/vc/map.php:1678
+msgid "Menu posts"
+msgstr ""
+
+#: include/vc/map.php:1682
+msgid "Posts"
+msgstr ""
+
+#: include/vc/map.php:1692
+msgid "Article Info"
+msgstr ""
+
+#: include/vc/map.php:1696
+msgid "Displays current article header"
+msgstr ""
+
+#: include/vc/map.php:1702
+msgid "Heading font size"
+msgstr ""
+
+#: include/vc/map.php:1704
+msgid "Choose font size for the heading, enter value in pixels, e.g., 30px."
+msgstr ""
+
+#: include/vc/map.php:1708
+msgid "Hide labels"
+msgstr ""
+
+#: include/vc/map.php:1714
+msgid "Hide post meta"
+msgstr ""
+
+#: include/vc/map.php:1722
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file. Use class "
+"\"light\" for white text and links."
+msgstr ""
+
+#: include/vc/map.php:1757
+msgid "Add ads to the content"
+msgstr ""
+
+#: include/vc/map.php:1761
+msgid "Specific ad"
+msgstr ""
+
+#: include/vc/map.php:1768
+msgid "Ads by category"
+msgstr ""
+
+#: include/vc/map.php:1776
+msgid "How many ads to show in column"
+msgstr ""
+
+#: include/vc/map.php:1783
+msgid "Rotate ads randomly"
+msgstr ""
+
+#: include/vc/map.php:1794
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file. <br> Use "
+"class \"light\" for white text and links."
+msgstr ""
+
+#: include/vc/params.php:47
+msgid "No categories found!"
+msgstr ""
+
+#: include/vc/params.php:69
+msgid "No tags found!"
+msgstr ""
+
+#: include/vc/shortcodes/mnky_countdown.php:15
+msgid "Days"
+msgstr ""
+
+#: include/vc/shortcodes/mnky_countdown.php:15
+msgid "Hours"
+msgstr ""
+
+#: include/vc/shortcodes/mnky_countdown.php:15
+msgid "Min"
+msgstr ""
+
+#: include/vc/shortcodes/mnky_countdown.php:15
+msgid "Sec"
+msgstr ""
+
+#: include/vc/shortcodes/mnky_posts.php:220
+#: include/vc/shortcodes/mnky_posts.php:222
+#: include/vc/shortcodes/mnky_posts_grid.php:149
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: include/vc/shortcodes/mnky_posts.php:272
+#: include/vc/shortcodes/mnky_posts.php:274
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: include/vc/shortcodes/mnky_posts.php:314
+msgid "Comments"
+msgstr ""
+
+#: include/vc/shortcodes/mnky_posts.php:380
+msgid "Previous"
+msgstr ""
+
+#: include/vc/shortcodes/mnky_posts.php:381
+msgid "Next"
+msgstr ""
+
+#: include/vc/templates.php:8
+msgid "01. Full news homepage"
+msgstr ""
+
+#: include/vc/templates.php:25
+msgid "02. Full grid news homepage"
+msgstr ""
+
+#: include/vc/templates.php:35
+msgid "03. Full travel news homepage"
+msgstr ""
+
+#: include/vc/templates.php:49
+msgid "04. Full tech news homepage"
+msgstr ""
+
+#: include/vc/templates.php:59
+msgid "05. Full sport news homepage"
+msgstr ""
+
+#: include/vc/templates.php:71
+msgid "06. Full classic news homepage"
+msgstr ""
+
+#: include/vc/templates.php:85
+msgid "07. Full video news homepage"
+msgstr ""
+
+#: include/vc/templates.php:99
+msgid "08. Full fashion news homepage"
+msgstr ""
+
+#: include/vc/templates.php:115
+msgid "09. Articles and popular news column"
+msgstr ""
+
+#: include/vc/templates.php:127
+msgid "10. Three news category columns"
+msgstr ""
+
+#: include/vc/templates.php:137
+msgid "11. Teaser news boxes"
+msgstr ""
