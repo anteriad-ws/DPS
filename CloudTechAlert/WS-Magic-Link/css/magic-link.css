@@ -1,0 +1,41 @@
+.wpa-error {
+    background: #ffebe8;
+    border: 1px solid #C00;
+    padding: 8px;
+    font-size: 13px;
+}
+.wpa-success {
+    background: rgba(0,200,158,0.5) !important;
+    border: 1px solid #009978 !important;
+    padding: 6px;
+    font-size: 13px;
+}
+#magic-link-div p {
+    margin-bottom: 8px;
+}
+.magic-box{display:flex;justify-content: flex-start;}
+#user_email_username{
+    height: 40px;
+    padding: 3px 9px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 70%;
+}
+#wpa-submit{
+    background-color: #2291ed  !important;border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+    text-transform: inherit;
+    width: 30%;
+}
+    .title {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+button#submit {
+    
+    padding: 10px 30px;
+    background: #0e8000;
+    color: #fff;
+    border: none;
+    margin-top: 20px;
+}
